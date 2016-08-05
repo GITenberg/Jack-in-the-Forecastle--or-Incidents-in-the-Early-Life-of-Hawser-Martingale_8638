@@ -1,0 +1,24 @@
+_repo: Jack-in-the-Forecastle--or-Incidents-in-the-Early-Life-of-Hawser-Martingale_8638
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sleeper, John Sherburne
+    birthdate: 1794
+    deathdate: 1878
+    gutenberg_agent_id: '2828'
+    url: http://www.gutenberg.org/2009/agents/2828
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8638'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seafaring life'
+- !lcc 'G'
+- GITenberg
+title: Jack in the Forecastle; or, Incidents in the Early Life of Hawser Martingale
+url: http://www.gutenberg.org/ebooks/8638
